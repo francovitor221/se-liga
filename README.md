@@ -1,1 +1,5 @@
 # se-liga
+
+ O se liga é um projeto escolar, que serve para ajudar os alunos a ter mais uma chance de passar de série, pois assim, os alunos não vão para o conçelho de classe logo de cara, assim passando pelo se liga. 
+O se liga apesar de ser mais uma chance, é muito complicado pois o aluno tem que fezer varias provas e trabalhos, relacionados ao conteudo de todo o ano, tendo que fazer de todas as materias que supostamente estaria reprovado. a pesar de ajuda o aluno que estaria reprovado por notas, o se liga não ajuda alunos que estariam reprovados por falta, mesmo que o aluno esteja com todas as notas do boletim azuis, mas por acaso teve mais falta que o esperado, o aluno irá reprovar, pois, como mençionado, o se liga não ajuda alunos com muitas faltas, sómente alunos com notas baixas.franco vitor
+O se liga é um projeto que foi crado pela secretaria de educaçáo e do esporte, que foi criado no ano de 2001, com a função de ajudar uma grance parcela de alunos que estavam indo para o conçelho de classe, e infelizmente muitos desses alunos acabavam reprovando, e consequentemente abaixavam o indice de educação de escola em que estudava e do estado.
